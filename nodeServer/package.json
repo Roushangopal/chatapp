@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "Node server for rChat application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Roushan Raja",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^3.1.2"
+  }
+}
